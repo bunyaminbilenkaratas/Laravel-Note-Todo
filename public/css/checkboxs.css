@@ -1,0 +1,11 @@
+.trashicon{
+    position: absolute;
+    top: 1rem;
+    right: 17%;
+}
+
+.plusicon{
+    position: absolute;
+    top: 1rem;
+    right: 5%;
+}
